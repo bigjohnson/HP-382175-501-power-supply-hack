@@ -5,4 +5,4 @@ How power up an HP 382175 501 power supply and pinout
 
 ## Pinout
 
-![HP 382175-501](https://raw.githubusercontent.com/bigjohnson/HP-382175-501-power-supply-hack/main/images/HP-382175-501_1.jpg)
+![HP 382175-501](https://raw.githubusercontent.com/bigjohnson/HP-382175-501-power-supply-hack/main/images/hp-382175-501.svg)
