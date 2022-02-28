@@ -9,4 +9,8 @@ The +5 V out is an auxilyary output and is ever powered also when the +12 V is p
 
 ![HP 382175-501](https://raw.githubusercontent.com/bigjohnson/HP-382175-501-power-supply-hack/main/images/hp-382175-501x.svg)
 
+## Label
+
+![HP 382175-501](https://raw.githubusercontent.com/bigjohnson/HP-382175-501-power-supply-hack/main/images/label.jpg)
+
 Modify the power supply at your risk! Actually I only power up my, bot don't has use it.
